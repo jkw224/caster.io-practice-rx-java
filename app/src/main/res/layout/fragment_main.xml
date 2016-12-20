@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/main_content">
+
+        <Button
+            android:id="@+id/intro_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/intro_example"/>
+
+        <Button
+            android:id="@+id/amb_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/amb_example"/>
+
+        <Button
+            android:id="@+id/zip_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/zip_example"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/subjects"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/replay_subject_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/replay_subject_example"/>
+
+        <Button
+            android:id="@+id/async_subject_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/async_subject_example"/>
+
+        <Button
+            android:id="@+id/publish_subject_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/publish_subject_example"/>
+
+        <Button
+            android:id="@+id/behavior_subject_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/behavior_subject_example"/>
+
+    </LinearLayout>
+
+</ScrollView>

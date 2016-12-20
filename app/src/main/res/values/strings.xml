@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RxExamples</string>
+    <string name="amb_execute_test">Execute Test</string>
+    <string name="amb_example">Observable.amb() Example</string>
+    <string name="zip_example">Observable.zip() Example</string>
+    <string name="intro_example">Intro Example</string>
+    <string name="subjects">Subjects</string>
+    <string name="replay_subject_instructions">Attach a debugger to each method in the fragment, then click each button to observe the various replay subject behavior.</string>
+    <string name="replay_subject_default">Default Replay Subject</string>
+    <string name="replay_subject_example">Replay Subject Example</string>
+    <string name="replay_subject_create_sized">Sized Replay Subject</string>
+    <string name="replay_subject_create_timed">Timed Replay Subject</string>
+    <string name="async_subject_example">Async Subject Example</string>
+    <string name="async_subject_test">Test Async Subject</string>
+    <string name="async_subject_test_error">Test with Error</string>
+    <string name="publish_subject_example">Publish Subject Example</string>
+    <string name="publish_subject_test">Test Publish Subject</string>
+    <string name="public_subject_test_error">Publish Subject with Error</string>
+    <string name="behavior_subject_test">Test Behavior Subject</string>
+    <string name="behavior_subject_test_error">Behavior Subject with Error</string>
+    <string name="behavior_subject_example">Behavior Subject Example</string>
+    <string name="behavior_subject_existing_item">Creation Existing Item</string>
+</resources>
